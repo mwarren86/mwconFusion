@@ -173,7 +173,6 @@
     {
       "id": 0,
       "name": "Weekend Grand Buffet",
-      // "image": "images/buffet.png",
       "image": "http://www.imageno.com/thumbs/20170825/oyzbzauxz90q.jpg",
       "label": "New",
       "price": "19.99",
@@ -185,7 +184,6 @@
     {
       "id": 0,
       "name": "Peter Pan",
-      //"image": "images/alberto.png",
       "image": "http://www.imageno.com/thumbs/20170825/zdez8yjefeck.jpg",
       "designation": "Chief Epicurious Officer",
       "abbr": "CEO",
